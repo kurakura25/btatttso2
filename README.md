@@ -2,6 +2,10 @@
 
 ## Bài tập: AES, RSA, SHA-256 và chữ ký số
 
+Họ và tên: Từ Văn Hải
+
+Lớp: K59.KTP
+
 **Môi trường:** .NET 8, C# WinForms 
 **Mã nguồn:**
 
